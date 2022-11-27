@@ -1,0 +1,1 @@
+E:\sample_codes\opengl_model_assimp\x64\Debug\opengl_model_assimp.exe
