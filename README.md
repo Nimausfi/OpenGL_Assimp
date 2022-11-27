@@ -16,6 +16,7 @@ Use Context:
 + Fragment shader
 + Texture
 + Camera
++ Model
 
 <br>
 <p align="center">  
@@ -23,6 +24,5 @@ Use Context:
 
 <br>
 
-Reference:
---
-https://github.com/JoeyDeVries/LearnOpenGL
+---
+Developed from: https://github.com/JoeyDeVries/LearnOpenGL
