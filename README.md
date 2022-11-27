@@ -2,7 +2,7 @@
 
 <pre>
 Language:                     C++
-Model loading library         assimp
+Model Loader:                 assimp
 OpenGL Function Loader:       glad
 Windowing and Input:          glfw
 OpenGL Mathematics:           glm
