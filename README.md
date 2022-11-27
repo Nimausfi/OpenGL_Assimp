@@ -2,6 +2,7 @@
 
 <pre>
 Language:                     C++
+Model loading library         assimp
 OpenGL Function Loader:       glad
 Windowing and Input:          glfw
 OpenGL Mathematics:           glm
@@ -18,9 +19,10 @@ Use Context:
 
 <br>
 <p align="center">  
-// <img src="https://user-images.githubusercontent.com/74507096/200998456-014d84a1-8439-4792-b2f0-fc88d7f2a352.gif" width=500> 
+<img src="https://user-images.githubusercontent.com/74507096/204159720-ffeb9eda-e452-4dec-9d93-c6e8442d62c5.gif" width=500> 
 
 <br>
 
 Reference:
 --
+https://github.com/JoeyDeVries/LearnOpenGL
