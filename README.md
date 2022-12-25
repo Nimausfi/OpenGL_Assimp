@@ -4,6 +4,7 @@
 Language:                     C++
 Model Loader:                 assimp
 OpenGL Function Loader:       glad
+Shaders:                      glsl
 Windowing and Input:          glfw
 OpenGL Mathematics:           glm
 Texture Loading:              stb
